@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+#viewer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #202020;
+}
+#viewer > .error {
+  padding-top: 1em;
+  text-align: center;
+  color: #ffffff;
+}
